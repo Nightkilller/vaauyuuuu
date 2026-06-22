@@ -1,0 +1,920 @@
+[
+  {
+    "ward_id": "anand_vihar",
+    "city": "Delhi",
+    "current_pm25": 303.4,
+    "current_aqi": 421.8,
+    "forecast_pm25_24h": 217.6,
+    "forecast_pm25_48h": 215.9,
+    "forecast_pm25_72h": 236.4,
+    "forecast_aqi_24h": 375.1,
+    "forecast_aqi_48h": 373.8,
+    "forecast_aqi_72h": 389.6,
+    "weather": {
+      "temperature": 9.3,
+      "humidity": 82.1,
+      "wind_speed": 3.4,
+      "wind_direction": 141.6
+    },
+    "pollutants": {
+      "pm10": 402.7,
+      "no2": 92.4,
+      "so2": 26.4,
+      "co": 2.5
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 303.4,
+        "aqi": 421.8,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 217.6,
+        "aqi": 375.1,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 215.9,
+        "aqi": 373.8,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 236.4,
+        "aqi": 389.6,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "bandra",
+    "city": "Mumbai",
+    "current_pm25": 53.1,
+    "current_aqi": 88.3,
+    "forecast_pm25_24h": 92.4,
+    "forecast_pm25_48h": 79.0,
+    "forecast_pm25_72h": 81.3,
+    "forecast_aqi_24h": 205.9,
+    "forecast_aqi_48h": 162.5,
+    "forecast_aqi_72h": 170.2,
+    "weather": {
+      "temperature": 16.8,
+      "humidity": 75.4,
+      "wind_speed": 6.2,
+      "wind_direction": 94.3
+    },
+    "pollutants": {
+      "pm10": 77.4,
+      "no2": 24.0,
+      "so2": 8.8,
+      "co": 0.8
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 53.1,
+        "aqi": 88.3,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 92.4,
+        "aqi": 205.9,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 79.0,
+        "aqi": 162.5,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 81.3,
+        "aqi": 170.2,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "borivali",
+    "city": "Mumbai",
+    "current_pm25": 19.4,
+    "current_aqi": 32.3,
+    "forecast_pm25_24h": 74.0,
+    "forecast_pm25_48h": 69.0,
+    "forecast_pm25_72h": 77.3,
+    "forecast_aqi_24h": 145.3,
+    "forecast_aqi_48h": 128.4,
+    "forecast_aqi_72h": 156.8,
+    "weather": {
+      "temperature": 21.8,
+      "humidity": 70.0,
+      "wind_speed": 11.7,
+      "wind_direction": 38.0
+    },
+    "pollutants": {
+      "pm10": 25.3,
+      "no2": 25.3,
+      "so2": 7.3,
+      "co": 0.6
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 19.4,
+        "aqi": 32.3,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 74.0,
+        "aqi": 145.3,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 69.0,
+        "aqi": 128.4,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 77.3,
+        "aqi": 156.8,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "city_railway",
+    "city": "Bengaluru",
+    "current_pm25": 45.0,
+    "current_aqi": 74.7,
+    "forecast_pm25_24h": 78.8,
+    "forecast_pm25_48h": 71.3,
+    "forecast_pm25_72h": 63.8,
+    "forecast_aqi_24h": 161.8,
+    "forecast_aqi_48h": 136.2,
+    "forecast_aqi_72h": 110.7,
+    "weather": {
+      "temperature": 15.4,
+      "humidity": 65.9,
+      "wind_speed": 1.5,
+      "wind_direction": 271.5
+    },
+    "pollutants": {
+      "pm10": 71.0,
+      "no2": 24.1,
+      "so2": 5.7,
+      "co": 0.9
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 45.0,
+        "aqi": 74.7,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 78.8,
+        "aqi": 161.8,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 71.3,
+        "aqi": 136.2,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 63.8,
+        "aqi": 110.7,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "colaba",
+    "city": "Mumbai",
+    "current_pm25": 33.9,
+    "current_aqi": 55.9,
+    "forecast_pm25_24h": 75.7,
+    "forecast_pm25_48h": 67.8,
+    "forecast_pm25_72h": 58.9,
+    "forecast_aqi_24h": 151.3,
+    "forecast_aqi_48h": 124.1,
+    "forecast_aqi_72h": 98.1,
+    "weather": {
+      "temperature": 22.1,
+      "humidity": 73.1,
+      "wind_speed": 9.9,
+      "wind_direction": 84.7
+    },
+    "pollutants": {
+      "pm10": 51.5,
+      "no2": 23.1,
+      "so2": 9.9,
+      "co": 0.6
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 33.9,
+        "aqi": 55.9,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 75.7,
+        "aqi": 151.3,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 67.8,
+        "aqi": 124.1,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 58.9,
+        "aqi": 98.1,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "dwarka_sec8",
+    "city": "Delhi",
+    "current_pm25": 155.0,
+    "current_aqi": 327.1,
+    "forecast_pm25_24h": 174.3,
+    "forecast_pm25_48h": 152.0,
+    "forecast_pm25_72h": 165.2,
+    "forecast_aqi_24h": 341.9,
+    "forecast_aqi_48h": 324.8,
+    "forecast_aqi_72h": 334.9,
+    "weather": {
+      "temperature": 6.7,
+      "humidity": 60.7,
+      "wind_speed": 3.3,
+      "wind_direction": 30.9
+    },
+    "pollutants": {
+      "pm10": 225.1,
+      "no2": 52.6,
+      "so2": 15.0,
+      "co": 1.5
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 155.0,
+        "aqi": 327.1,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 174.3,
+        "aqi": 341.9,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 152.0,
+        "aqi": 324.8,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 165.2,
+        "aqi": 334.9,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "hebbal",
+    "city": "Bengaluru",
+    "current_pm25": 39.6,
+    "current_aqi": 65.5,
+    "forecast_pm25_24h": 71.7,
+    "forecast_pm25_48h": 69.8,
+    "forecast_pm25_72h": 61.5,
+    "forecast_aqi_24h": 137.6,
+    "forecast_aqi_48h": 131.1,
+    "forecast_aqi_72h": 102.6,
+    "weather": {
+      "temperature": 15.3,
+      "humidity": 48.2,
+      "wind_speed": 8.3,
+      "wind_direction": 243.4
+    },
+    "pollutants": {
+      "pm10": 61.4,
+      "no2": 30.8,
+      "so2": 9.0,
+      "co": 0.7
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 39.6,
+        "aqi": 65.5,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 71.7,
+        "aqi": 137.6,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 69.8,
+        "aqi": 131.1,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 61.5,
+        "aqi": 102.6,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "hsr_layout",
+    "city": "Bengaluru",
+    "current_pm25": 34.3,
+    "current_aqi": 56.6,
+    "forecast_pm25_24h": 72.1,
+    "forecast_pm25_48h": 70.3,
+    "forecast_pm25_72h": 60.9,
+    "forecast_aqi_24h": 139.0,
+    "forecast_aqi_48h": 132.7,
+    "forecast_aqi_72h": 100.8,
+    "weather": {
+      "temperature": 13.4,
+      "humidity": 61.2,
+      "wind_speed": 8.1,
+      "wind_direction": 213.1
+    },
+    "pollutants": {
+      "pm10": 55.6,
+      "no2": 21.3,
+      "so2": 6.4,
+      "co": 0.5
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 34.3,
+        "aqi": 56.6,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 72.1,
+        "aqi": 139.0,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 70.3,
+        "aqi": 132.7,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 60.9,
+        "aqi": 100.8,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "ito",
+    "city": "Delhi",
+    "current_pm25": 146.7,
+    "current_aqi": 320.7,
+    "forecast_pm25_24h": 199.3,
+    "forecast_pm25_48h": 199.2,
+    "forecast_pm25_72h": 202.1,
+    "forecast_aqi_24h": 361.1,
+    "forecast_aqi_48h": 361.1,
+    "forecast_aqi_72h": 363.2,
+    "weather": {
+      "temperature": 6.7,
+      "humidity": 57.3,
+      "wind_speed": 8.6,
+      "wind_direction": 280.1
+    },
+    "pollutants": {
+      "pm10": 194.4,
+      "no2": 56.2,
+      "so2": 14.0,
+      "co": 1.5
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 146.7,
+        "aqi": 320.7,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 199.3,
+        "aqi": 361.1,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 199.2,
+        "aqi": 361.1,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 202.1,
+        "aqi": 363.2,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "kurla",
+    "city": "Mumbai",
+    "current_pm25": 31.0,
+    "current_aqi": 51.0,
+    "forecast_pm25_24h": 91.1,
+    "forecast_pm25_48h": 86.3,
+    "forecast_pm25_72h": 72.5,
+    "forecast_aqi_24h": 201.2,
+    "forecast_aqi_48h": 187.5,
+    "forecast_aqi_72h": 140.3,
+    "weather": {
+      "temperature": 22.0,
+      "humidity": 84.2,
+      "wind_speed": 11.1,
+      "wind_direction": 81.9
+    },
+    "pollutants": {
+      "pm10": 37.1,
+      "no2": 21.2,
+      "so2": 8.7,
+      "co": 0.6
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 31.0,
+        "aqi": 51.0,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 91.1,
+        "aqi": 201.2,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 86.3,
+        "aqi": 187.5,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 72.5,
+        "aqi": 140.3,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "mazagaon",
+    "city": "Mumbai",
+    "current_pm25": 41.3,
+    "current_aqi": 68.4,
+    "forecast_pm25_24h": 74.2,
+    "forecast_pm25_48h": 73.3,
+    "forecast_pm25_72h": 65.8,
+    "forecast_aqi_24h": 146.1,
+    "forecast_aqi_48h": 142.9,
+    "forecast_aqi_72h": 117.4,
+    "weather": {
+      "temperature": 22.5,
+      "humidity": 68.7,
+      "wind_speed": 8.1,
+      "wind_direction": 99.8
+    },
+    "pollutants": {
+      "pm10": 60.1,
+      "no2": 26.7,
+      "so2": 7.1,
+      "co": 0.7
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 41.3,
+        "aqi": 68.4,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 74.2,
+        "aqi": 146.1,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 73.3,
+        "aqi": 142.9,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 65.8,
+        "aqi": 117.4,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "peenya",
+    "city": "Bengaluru",
+    "current_pm25": 47.7,
+    "current_aqi": 79.2,
+    "forecast_pm25_24h": 83.2,
+    "forecast_pm25_48h": 80.6,
+    "forecast_pm25_72h": 68.5,
+    "forecast_aqi_24h": 176.8,
+    "forecast_aqi_48h": 168.0,
+    "forecast_aqi_72h": 126.7,
+    "weather": {
+      "temperature": 12.9,
+      "humidity": 47.0,
+      "wind_speed": 6.0,
+      "wind_direction": 247.0
+    },
+    "pollutants": {
+      "pm10": 67.8,
+      "no2": 23.1,
+      "so2": 7.0,
+      "co": 0.7
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 47.7,
+        "aqi": 79.2,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 83.2,
+        "aqi": 176.8,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 80.6,
+        "aqi": 168.0,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 68.5,
+        "aqi": 126.7,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "rk_puram",
+    "city": "Delhi",
+    "current_pm25": 133.8,
+    "current_aqi": 310.8,
+    "forecast_pm25_24h": 166.4,
+    "forecast_pm25_48h": 163.7,
+    "forecast_pm25_72h": 174.1,
+    "forecast_aqi_24h": 335.9,
+    "forecast_aqi_48h": 333.8,
+    "forecast_aqi_72h": 341.7,
+    "weather": {
+      "temperature": 11.4,
+      "humidity": 62.8,
+      "wind_speed": 4.9,
+      "wind_direction": 323.8
+    },
+    "pollutants": {
+      "pm10": 184.8,
+      "no2": 54.5,
+      "so2": 12.8,
+      "co": 1.3
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 133.8,
+        "aqi": 310.8,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 166.4,
+        "aqi": 335.9,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 163.7,
+        "aqi": 333.8,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 174.1,
+        "aqi": 341.7,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "rohini",
+    "city": "Delhi",
+    "current_pm25": 162.7,
+    "current_aqi": 333.0,
+    "forecast_pm25_24h": 187.1,
+    "forecast_pm25_48h": 170.9,
+    "forecast_pm25_72h": 181.3,
+    "forecast_aqi_24h": 351.7,
+    "forecast_aqi_48h": 339.3,
+    "forecast_aqi_72h": 347.2,
+    "weather": {
+      "temperature": 5.6,
+      "humidity": 51.8,
+      "wind_speed": 4.3,
+      "wind_direction": 249.2
+    },
+    "pollutants": {
+      "pm10": 249.1,
+      "no2": 55.7,
+      "so2": 14.4,
+      "co": 1.6
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 162.7,
+        "aqi": 333.0,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 187.1,
+        "aqi": 351.7,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 170.9,
+        "aqi": 339.3,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 181.3,
+        "aqi": 347.2,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "silk_board",
+    "city": "Bengaluru",
+    "current_pm25": 57.1,
+    "current_aqi": 95.1,
+    "forecast_pm25_24h": 91.6,
+    "forecast_pm25_48h": 82.1,
+    "forecast_pm25_72h": 83.0,
+    "forecast_aqi_24h": 203.0,
+    "forecast_aqi_48h": 172.9,
+    "forecast_aqi_72h": 176.1,
+    "weather": {
+      "temperature": 16.2,
+      "humidity": 46.3,
+      "wind_speed": 7.2,
+      "wind_direction": 234.8
+    },
+    "pollutants": {
+      "pm10": 89.2,
+      "no2": 30.5,
+      "so2": 8.9,
+      "co": 0.8
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 57.1,
+        "aqi": 95.1,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 91.6,
+        "aqi": 203.0,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 82.1,
+        "aqi": 172.9,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 83.0,
+        "aqi": 176.1,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "sion",
+    "city": "Mumbai",
+    "current_pm25": 58.1,
+    "current_aqi": 96.8,
+    "forecast_pm25_24h": 98.4,
+    "forecast_pm25_48h": 86.8,
+    "forecast_pm25_72h": 113.5,
+    "forecast_aqi_24h": 226.1,
+    "forecast_aqi_48h": 189.2,
+    "forecast_aqi_72h": 277.8,
+    "weather": {
+      "temperature": 20.5,
+      "humidity": 72.6,
+      "wind_speed": 6.8,
+      "wind_direction": 61.0
+    },
+    "pollutants": {
+      "pm10": 96.5,
+      "no2": 30.8,
+      "so2": 11.2,
+      "co": 0.8
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 58.1,
+        "aqi": 96.8,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 98.4,
+        "aqi": 226.1,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 86.8,
+        "aqi": 189.2,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 113.5,
+        "aqi": 277.8,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "wazirpur",
+    "city": "Delhi",
+    "current_pm25": 259.5,
+    "current_aqi": 404.4,
+    "forecast_pm25_24h": 229.3,
+    "forecast_pm25_48h": 233.9,
+    "forecast_pm25_72h": 251.3,
+    "forecast_aqi_24h": 384.1,
+    "forecast_aqi_48h": 387.6,
+    "forecast_aqi_72h": 401.1,
+    "weather": {
+      "temperature": 10.8,
+      "humidity": 72.6,
+      "wind_speed": 4.0,
+      "wind_direction": 34.8
+    },
+    "pollutants": {
+      "pm10": 405.2,
+      "no2": 84.5,
+      "so2": 21.9,
+      "co": 2.2
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 259.5,
+        "aqi": 404.4,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 229.3,
+        "aqi": 384.1,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 233.9,
+        "aqi": 387.6,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 251.3,
+        "aqi": 401.1,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "whitefield",
+    "city": "Bengaluru",
+    "current_pm25": 47.7,
+    "current_aqi": 79.2,
+    "forecast_pm25_24h": 87.0,
+    "forecast_pm25_48h": 82.4,
+    "forecast_pm25_72h": 75.0,
+    "forecast_aqi_24h": 189.7,
+    "forecast_aqi_48h": 174.1,
+    "forecast_aqi_72h": 148.9,
+    "weather": {
+      "temperature": 12.6,
+      "humidity": 60.4,
+      "wind_speed": 7.4,
+      "wind_direction": 229.8
+    },
+    "pollutants": {
+      "pm10": 71.2,
+      "no2": 26.0,
+      "so2": 8.0,
+      "co": 0.8
+    },
+    "trend": [
+      {
+        "label": "Now",
+        "pm25": 47.7,
+        "aqi": 79.2,
+        "hours": 0
+      },
+      {
+        "label": "+24h",
+        "pm25": 87.0,
+        "aqi": 189.7,
+        "hours": 24
+      },
+      {
+        "label": "+48h",
+        "pm25": 82.4,
+        "aqi": 174.1,
+        "hours": 48
+      },
+      {
+        "label": "+72h",
+        "pm25": 75.0,
+        "aqi": 148.9,
+        "hours": 72
+      }
+    ],
+    "generated_at": "2024-11-26 23:00:00"
+  }
+]

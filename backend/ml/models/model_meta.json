@@ -1,0 +1,50 @@
+{
+  "model_type": "HistGBM",
+  "features": [
+    "pm25_lag_1h",
+    "pm25_lag_6h",
+    "pm25_lag_24h",
+    "pm25_lag_168h",
+    "pm25_roll_24h_mean",
+    "pm25_roll_24h_std",
+    "pm25_roll_7d_mean",
+    "hour_sin",
+    "hour_cos",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "stubble_season",
+    "temperature",
+    "humidity",
+    "wind_speed",
+    "wind_direction_sin",
+    "wind_direction_cos"
+  ],
+  "targets": [
+    "pm25_t+24",
+    "pm25_t+48",
+    "pm25_t+72"
+  ],
+  "results": {
+    "24": {
+      "rmse": 47.27,
+      "mae": 35.51,
+      "rmse_naive": 68.58,
+      "improvement_pct": 31.1
+    },
+    "48": {
+      "rmse": 49.67,
+      "mae": 37.4,
+      "rmse_naive": 69.93,
+      "improvement_pct": 29.0
+    },
+    "72": {
+      "rmse": 54.51,
+      "mae": 40.65,
+      "rmse_naive": 71.1,
+      "improvement_pct": 23.3
+    }
+  },
+  "train_size": 28512,
+  "test_size": 6048
+}

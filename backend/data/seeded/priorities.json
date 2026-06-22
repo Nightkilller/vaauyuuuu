@@ -1,0 +1,182 @@
+[
+  {
+    "ward_id": "rohini",
+    "ward_name": "Rohini",
+    "city": "Delhi",
+    "current_aqi": 333.0,
+    "forecast_aqi_24h": 351.7,
+    "population": 450000,
+    "priority_score": 1582.6,
+    "zone": "North-West"
+  },
+  {
+    "ward_id": "dwarka_sec8",
+    "ward_name": "Dwarka Sector 8",
+    "city": "Delhi",
+    "current_aqi": 327.1,
+    "forecast_aqi_24h": 341.9,
+    "population": 400000,
+    "priority_score": 1367.6,
+    "zone": "South-West"
+  },
+  {
+    "ward_id": "anand_vihar",
+    "ward_name": "Anand Vihar",
+    "city": "Delhi",
+    "current_aqi": 421.8,
+    "forecast_aqi_24h": 375.1,
+    "population": 350000,
+    "priority_score": 1312.9,
+    "zone": "East"
+  },
+  {
+    "ward_id": "wazirpur",
+    "ward_name": "Wazirpur",
+    "city": "Delhi",
+    "current_aqi": 404.4,
+    "forecast_aqi_24h": 384.1,
+    "population": 270000,
+    "priority_score": 1037.1,
+    "zone": "North-West"
+  },
+  {
+    "ward_id": "rk_puram",
+    "ward_name": "RK Puram",
+    "city": "Delhi",
+    "current_aqi": 310.8,
+    "forecast_aqi_24h": 335.9,
+    "population": 280000,
+    "priority_score": 940.5,
+    "zone": "South"
+  },
+  {
+    "ward_id": "kurla",
+    "ward_name": "Kurla",
+    "city": "Mumbai",
+    "current_aqi": 51.0,
+    "forecast_aqi_24h": 201.2,
+    "population": 400000,
+    "priority_score": 804.8,
+    "zone": "East"
+  },
+  {
+    "ward_id": "ito",
+    "ward_name": "ITO",
+    "city": "Delhi",
+    "current_aqi": 320.7,
+    "forecast_aqi_24h": 361.1,
+    "population": 200000,
+    "priority_score": 722.2,
+    "zone": "Central"
+  },
+  {
+    "ward_id": "bandra",
+    "ward_name": "Bandra",
+    "city": "Mumbai",
+    "current_aqi": 88.3,
+    "forecast_aqi_24h": 205.9,
+    "population": 350000,
+    "priority_score": 720.6,
+    "zone": "West"
+  },
+  {
+    "ward_id": "sion",
+    "ward_name": "Sion",
+    "city": "Mumbai",
+    "current_aqi": 96.8,
+    "forecast_aqi_24h": 226.1,
+    "population": 300000,
+    "priority_score": 678.3,
+    "zone": "Central"
+  },
+  {
+    "ward_id": "whitefield",
+    "ward_name": "Whitefield",
+    "city": "Bengaluru",
+    "current_aqi": 79.2,
+    "forecast_aqi_24h": 189.7,
+    "population": 350000,
+    "priority_score": 663.9,
+    "zone": "East"
+  },
+  {
+    "ward_id": "borivali",
+    "ward_name": "Borivali",
+    "city": "Mumbai",
+    "current_aqi": 32.3,
+    "forecast_aqi_24h": 145.3,
+    "population": 450000,
+    "priority_score": 653.9,
+    "zone": "North"
+  },
+  {
+    "ward_id": "peenya",
+    "ward_name": "Peenya",
+    "city": "Bengaluru",
+    "current_aqi": 79.2,
+    "forecast_aqi_24h": 176.8,
+    "population": 300000,
+    "priority_score": 530.4,
+    "zone": "North"
+  },
+  {
+    "ward_id": "hebbal",
+    "ward_name": "Hebbal",
+    "city": "Bengaluru",
+    "current_aqi": 65.5,
+    "forecast_aqi_24h": 137.6,
+    "population": 280000,
+    "priority_score": 385.3,
+    "zone": "North"
+  },
+  {
+    "ward_id": "silk_board",
+    "ward_name": "Silk Board",
+    "city": "Bengaluru",
+    "current_aqi": 95.1,
+    "forecast_aqi_24h": 203.0,
+    "population": 180000,
+    "priority_score": 365.4,
+    "zone": "South"
+  },
+  {
+    "ward_id": "city_railway",
+    "ward_name": "City Railway Station",
+    "city": "Bengaluru",
+    "current_aqi": 74.7,
+    "forecast_aqi_24h": 161.8,
+    "population": 220000,
+    "priority_score": 356.0,
+    "zone": "Central"
+  },
+  {
+    "ward_id": "hsr_layout",
+    "ward_name": "HSR Layout",
+    "city": "Bengaluru",
+    "current_aqi": 56.6,
+    "forecast_aqi_24h": 139.0,
+    "population": 250000,
+    "priority_score": 347.5,
+    "zone": "South"
+  },
+  {
+    "ward_id": "mazagaon",
+    "ward_name": "Mazagaon",
+    "city": "Mumbai",
+    "current_aqi": 68.4,
+    "forecast_aqi_24h": 146.1,
+    "population": 200000,
+    "priority_score": 292.2,
+    "zone": "South"
+  },
+  {
+    "ward_id": "colaba",
+    "ward_name": "Colaba",
+    "city": "Mumbai",
+    "current_aqi": 55.9,
+    "forecast_aqi_24h": 151.3,
+    "population": 150000,
+    "priority_score": 227.0,
+    "zone": "South"
+  }
+]

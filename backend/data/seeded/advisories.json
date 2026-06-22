@@ -1,0 +1,270 @@
+[
+  {
+    "ward_id": "anand_vihar",
+    "ward_name": "Anand Vihar",
+    "city": "Delhi",
+    "aqi": 375,
+    "category": "verypoor",
+    "risk_level": "severe",
+    "message": "\ud83d\udd34 Very Poor air quality expected in Anand Vihar (AQI 375). All residents should minimize outdoor exposure.",
+    "actions": [
+      "Everyone should avoid prolonged outdoor activity",
+      "N95 masks essential when outdoors",
+      "Keep all windows and doors closed",
+      "Schools should consider indoor-only activities",
+      "Monitor for respiratory symptoms \u2014 seek medical help if needed"
+    ]
+  },
+  {
+    "ward_id": "bandra",
+    "ward_name": "Bandra",
+    "city": "Mumbai",
+    "aqi": 206,
+    "category": "poor",
+    "risk_level": "high",
+    "message": "\u26a0\ufe0f High PM2.5 expected in Bandra (AQI 206). Avoid prolonged outdoor activity, especially 6-9 AM and 6-9 PM.",
+    "actions": [
+      "Sensitive groups should avoid outdoor activity",
+      "Use N95 masks when outdoors",
+      "Keep windows closed, use air purifier",
+      "Avoid outdoor exercise \u2014 use indoor alternatives"
+    ]
+  },
+  {
+    "ward_id": "borivali",
+    "ward_name": "Borivali",
+    "city": "Mumbai",
+    "aqi": 145,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in Borivali is expected to be Moderate (AQI 145). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "city_railway",
+    "ward_name": "City Railway Station",
+    "city": "Bengaluru",
+    "aqi": 162,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in City Railway Station is expected to be Moderate (AQI 162). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "colaba",
+    "ward_name": "Colaba",
+    "city": "Mumbai",
+    "aqi": 151,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in Colaba is expected to be Moderate (AQI 151). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "dwarka_sec8",
+    "ward_name": "Dwarka Sector 8",
+    "city": "Delhi",
+    "aqi": 342,
+    "category": "verypoor",
+    "risk_level": "severe",
+    "message": "\ud83d\udd34 Very Poor air quality expected in Dwarka Sector 8 (AQI 342). All residents should minimize outdoor exposure.",
+    "actions": [
+      "Everyone should avoid prolonged outdoor activity",
+      "N95 masks essential when outdoors",
+      "Keep all windows and doors closed",
+      "Schools should consider indoor-only activities",
+      "Monitor for respiratory symptoms \u2014 seek medical help if needed"
+    ]
+  },
+  {
+    "ward_id": "hebbal",
+    "ward_name": "Hebbal",
+    "city": "Bengaluru",
+    "aqi": 138,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in Hebbal is expected to be Moderate (AQI 138). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "hsr_layout",
+    "ward_name": "HSR Layout",
+    "city": "Bengaluru",
+    "aqi": 139,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in HSR Layout is expected to be Moderate (AQI 139). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "ito",
+    "ward_name": "ITO",
+    "city": "Delhi",
+    "aqi": 361,
+    "category": "verypoor",
+    "risk_level": "severe",
+    "message": "\ud83d\udd34 Very Poor air quality expected in ITO (AQI 361). All residents should minimize outdoor exposure.",
+    "actions": [
+      "Everyone should avoid prolonged outdoor activity",
+      "N95 masks essential when outdoors",
+      "Keep all windows and doors closed",
+      "Schools should consider indoor-only activities",
+      "Monitor for respiratory symptoms \u2014 seek medical help if needed"
+    ]
+  },
+  {
+    "ward_id": "kurla",
+    "ward_name": "Kurla",
+    "city": "Mumbai",
+    "aqi": 201,
+    "category": "poor",
+    "risk_level": "high",
+    "message": "\u26a0\ufe0f High PM2.5 expected in Kurla (AQI 201). Avoid prolonged outdoor activity, especially 6-9 AM and 6-9 PM.",
+    "actions": [
+      "Sensitive groups should avoid outdoor activity",
+      "Use N95 masks when outdoors",
+      "Keep windows closed, use air purifier",
+      "Avoid outdoor exercise \u2014 use indoor alternatives"
+    ]
+  },
+  {
+    "ward_id": "mazagaon",
+    "ward_name": "Mazagaon",
+    "city": "Mumbai",
+    "aqi": 146,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in Mazagaon is expected to be Moderate (AQI 146). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "peenya",
+    "ward_name": "Peenya",
+    "city": "Bengaluru",
+    "aqi": 177,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in Peenya is expected to be Moderate (AQI 177). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  },
+  {
+    "ward_id": "rk_puram",
+    "ward_name": "RK Puram",
+    "city": "Delhi",
+    "aqi": 336,
+    "category": "verypoor",
+    "risk_level": "severe",
+    "message": "\ud83d\udd34 Very Poor air quality expected in RK Puram (AQI 336). All residents should minimize outdoor exposure.",
+    "actions": [
+      "Everyone should avoid prolonged outdoor activity",
+      "N95 masks essential when outdoors",
+      "Keep all windows and doors closed",
+      "Schools should consider indoor-only activities",
+      "Monitor for respiratory symptoms \u2014 seek medical help if needed"
+    ]
+  },
+  {
+    "ward_id": "rohini",
+    "ward_name": "Rohini",
+    "city": "Delhi",
+    "aqi": 352,
+    "category": "verypoor",
+    "risk_level": "severe",
+    "message": "\ud83d\udd34 Very Poor air quality expected in Rohini (AQI 352). All residents should minimize outdoor exposure.",
+    "actions": [
+      "Everyone should avoid prolonged outdoor activity",
+      "N95 masks essential when outdoors",
+      "Keep all windows and doors closed",
+      "Schools should consider indoor-only activities",
+      "Monitor for respiratory symptoms \u2014 seek medical help if needed"
+    ]
+  },
+  {
+    "ward_id": "silk_board",
+    "ward_name": "Silk Board",
+    "city": "Bengaluru",
+    "aqi": 203,
+    "category": "poor",
+    "risk_level": "high",
+    "message": "\u26a0\ufe0f High PM2.5 expected in Silk Board (AQI 203). Avoid prolonged outdoor activity, especially 6-9 AM and 6-9 PM.",
+    "actions": [
+      "Sensitive groups should avoid outdoor activity",
+      "Use N95 masks when outdoors",
+      "Keep windows closed, use air purifier",
+      "Avoid outdoor exercise \u2014 use indoor alternatives"
+    ]
+  },
+  {
+    "ward_id": "sion",
+    "ward_name": "Sion",
+    "city": "Mumbai",
+    "aqi": 226,
+    "category": "poor",
+    "risk_level": "high",
+    "message": "\u26a0\ufe0f High PM2.5 expected in Sion (AQI 226). Avoid prolonged outdoor activity, especially 6-9 AM and 6-9 PM.",
+    "actions": [
+      "Sensitive groups should avoid outdoor activity",
+      "Use N95 masks when outdoors",
+      "Keep windows closed, use air purifier",
+      "Avoid outdoor exercise \u2014 use indoor alternatives"
+    ]
+  },
+  {
+    "ward_id": "wazirpur",
+    "ward_name": "Wazirpur",
+    "city": "Delhi",
+    "aqi": 384,
+    "category": "verypoor",
+    "risk_level": "severe",
+    "message": "\ud83d\udd34 Very Poor air quality expected in Wazirpur (AQI 384). All residents should minimize outdoor exposure.",
+    "actions": [
+      "Everyone should avoid prolonged outdoor activity",
+      "N95 masks essential when outdoors",
+      "Keep all windows and doors closed",
+      "Schools should consider indoor-only activities",
+      "Monitor for respiratory symptoms \u2014 seek medical help if needed"
+    ]
+  },
+  {
+    "ward_id": "whitefield",
+    "ward_name": "Whitefield",
+    "city": "Bengaluru",
+    "aqi": 190,
+    "category": "moderate",
+    "risk_level": "moderate",
+    "message": "Air quality in Whitefield is expected to be Moderate (AQI 190). Sensitive groups should take precautions.",
+    "actions": [
+      "People with respiratory conditions should limit outdoor exposure",
+      "Consider wearing N95 mask during peak traffic hours",
+      "Keep indoor air purifiers running"
+    ]
+  }
+]

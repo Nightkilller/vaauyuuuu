@@ -1,0 +1,208 @@
+{
+  "wards": [
+    {
+      "ward_id": "anand_vihar",
+      "name": "Anand Vihar",
+      "lat": 28.6468,
+      "lon": 77.3162,
+      "population_approx": 350000,
+      "zone": "East",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "One of Delhi's most polluted stations; near UP border, high traffic corridor"
+    },
+    {
+      "ward_id": "rk_puram",
+      "name": "RK Puram",
+      "lat": 28.5631,
+      "lon": 77.1735,
+      "population_approx": 280000,
+      "zone": "South",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Residential + institutional area; DPCC monitoring station"
+    },
+    {
+      "ward_id": "punjabi_bagh",
+      "name": "Punjabi Bagh",
+      "lat": 28.6683,
+      "lon": 77.1168,
+      "population_approx": 300000,
+      "zone": "West",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Dense residential + commercial area"
+    },
+    {
+      "ward_id": "ito",
+      "name": "ITO",
+      "lat": 28.6289,
+      "lon": 77.2405,
+      "population_approx": 200000,
+      "zone": "Central",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Major traffic intersection; institutional hub"
+    },
+    {
+      "ward_id": "dwarka_sec8",
+      "name": "Dwarka Sector 8",
+      "lat": 28.5706,
+      "lon": 77.0688,
+      "population_approx": 400000,
+      "zone": "South-West",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "Sub-city near Haryana border; receives stubble-burning impact"
+    },
+    {
+      "ward_id": "rohini",
+      "name": "Rohini",
+      "lat": 28.7320,
+      "lon": 77.1198,
+      "population_approx": 450000,
+      "zone": "North-West",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "Large residential sub-city near Haryana border"
+    },
+    {
+      "ward_id": "okhla_phase2",
+      "name": "Okhla Phase 2",
+      "lat": 28.5308,
+      "lon": 77.2713,
+      "population_approx": 250000,
+      "zone": "South-East",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Industrial area; waste-to-energy plant nearby"
+    },
+    {
+      "ward_id": "mandir_marg",
+      "name": "Mandir Marg",
+      "lat": 28.6362,
+      "lon": 77.2009,
+      "population_approx": 180000,
+      "zone": "Central",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Central Delhi; lower pollution baseline due to green cover"
+    },
+    {
+      "ward_id": "najafgarh",
+      "name": "Najafgarh",
+      "lat": 28.6092,
+      "lon": 76.9798,
+      "population_approx": 320000,
+      "zone": "South-West",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "Rural-urban fringe; agricultural burning influence"
+    },
+    {
+      "ward_id": "wazirpur",
+      "name": "Wazirpur",
+      "lat": 28.6997,
+      "lon": 77.1636,
+      "population_approx": 270000,
+      "zone": "North-West",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Major industrial area; high baseline PM2.5"
+    },
+    {
+      "ward_id": "jahangirpuri",
+      "name": "Jahangirpuri",
+      "lat": 28.7254,
+      "lon": 77.1726,
+      "population_approx": 310000,
+      "zone": "North",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Dense residential area"
+    },
+    {
+      "ward_id": "vivek_vihar",
+      "name": "Vivek Vihar",
+      "lat": 28.6725,
+      "lon": 77.3153,
+      "population_approx": 290000,
+      "zone": "East",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "Near Anand Vihar; elevated pollution from NH-24 corridor"
+    },
+    {
+      "ward_id": "siri_fort",
+      "name": "Siri Fort",
+      "lat": 28.5533,
+      "lon": 77.2152,
+      "population_approx": 220000,
+      "zone": "South",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Institutional/residential area with moderate green cover"
+    },
+    {
+      "ward_id": "mundka",
+      "name": "Mundka",
+      "lat": 28.6841,
+      "lon": 77.0311,
+      "population_approx": 280000,
+      "zone": "West",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "Industrial zone near Haryana border"
+    },
+    {
+      "ward_id": "nehru_nagar",
+      "name": "Nehru Nagar",
+      "lat": 28.5889,
+      "lon": 77.2536,
+      "population_approx": 210000,
+      "zone": "Central",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Mixed commercial-residential"
+    },
+    {
+      "ward_id": "bawana",
+      "name": "Bawana",
+      "lat": 28.7762,
+      "lon": 77.0481,
+      "population_approx": 340000,
+      "zone": "North",
+      "near_ncr_border": true,
+      "station_type": "CAAQMS",
+      "notes": "Industrial area; Bawana Industrial Complex"
+    },
+    {
+      "ward_id": "ashok_vihar",
+      "name": "Ashok Vihar",
+      "lat": 28.6917,
+      "lon": 77.1821,
+      "population_approx": 260000,
+      "zone": "North",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Dense residential; moderate traffic"
+    },
+    {
+      "ward_id": "patparganj",
+      "name": "Patparganj",
+      "lat": 28.6236,
+      "lon": 77.2879,
+      "population_approx": 330000,
+      "zone": "East",
+      "near_ncr_border": false,
+      "station_type": "CAAQMS",
+      "notes": "Industrial area with residential pockets"
+    }
+  ],
+  "_metadata": {
+    "description": "Delhi CPCB CAAQMS station locations used as ward monitoring points",
+    "data_note": "Populations are approximate based on Delhi district density estimates — rounded for demo purposes",
+    "coordinate_source": "Approximate lat/lon of CPCB monitoring stations from public CAAQMS listings",
+    "count": 18
+  }
+}

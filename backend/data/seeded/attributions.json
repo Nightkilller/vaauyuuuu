@@ -1,0 +1,920 @@
+[
+  {
+    "ward_id": "anand_vihar",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": 43.22,
+        "abs_shap_value": 43.22,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": 23.49,
+        "abs_shap_value": 23.49,
+        "direction": "increasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 11.16,
+        "abs_shap_value": 11.16,
+        "direction": "increasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -9.7,
+        "abs_shap_value": 9.7,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": 9.14,
+        "abs_shap_value": 9.14,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": 7.6,
+        "abs_shap_value": 7.6,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "bandra",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -23.94,
+        "abs_shap_value": 23.94,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 19.98,
+        "abs_shap_value": 19.98,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -12.29,
+        "abs_shap_value": 12.29,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -10.25,
+        "abs_shap_value": 10.25,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -6.26,
+        "abs_shap_value": 6.26,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "humidity",
+        "factor": "Atmospheric moisture (inversion)",
+        "shap_value": 1.7,
+        "abs_shap_value": 1.7,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "borivali",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -26.1,
+        "abs_shap_value": 26.1,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.57,
+        "abs_shap_value": 18.57,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -13.1,
+        "abs_shap_value": 13.1,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -10.07,
+        "abs_shap_value": 10.07,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -9.86,
+        "abs_shap_value": 9.86,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -6.97,
+        "abs_shap_value": 6.97,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "city_railway",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -27.96,
+        "abs_shap_value": 27.96,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.53,
+        "abs_shap_value": 18.53,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -13.27,
+        "abs_shap_value": 13.27,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -10.61,
+        "abs_shap_value": 10.61,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -8.38,
+        "abs_shap_value": 8.38,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -7.73,
+        "abs_shap_value": 7.73,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "colaba",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -26.1,
+        "abs_shap_value": 26.1,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.57,
+        "abs_shap_value": 18.57,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -13.21,
+        "abs_shap_value": 13.21,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -10.1,
+        "abs_shap_value": 10.1,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -9.82,
+        "abs_shap_value": 9.82,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -7.19,
+        "abs_shap_value": 7.19,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "dwarka_sec8",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": 21.38,
+        "abs_shap_value": 21.38,
+        "direction": "increasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 11.97,
+        "abs_shap_value": 11.97,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": 6.93,
+        "abs_shap_value": 6.93,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": 4.81,
+        "abs_shap_value": 4.81,
+        "direction": "increasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -4.6,
+        "abs_shap_value": 4.6,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_24h_std",
+        "factor": "Pollution variability (24h)",
+        "shap_value": 4.23,
+        "abs_shap_value": 4.23,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "hebbal",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -27.07,
+        "abs_shap_value": 27.07,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.06,
+        "abs_shap_value": 18.06,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -13.15,
+        "abs_shap_value": 13.15,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -9.71,
+        "abs_shap_value": 9.71,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -8.83,
+        "abs_shap_value": 8.83,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -7.19,
+        "abs_shap_value": 7.19,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "hsr_layout",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -25.96,
+        "abs_shap_value": 25.96,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.0,
+        "abs_shap_value": 18.0,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -12.97,
+        "abs_shap_value": 12.97,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -9.81,
+        "abs_shap_value": 9.81,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -9.72,
+        "abs_shap_value": 9.72,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -7.19,
+        "abs_shap_value": 7.19,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "ito",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": 36.63,
+        "abs_shap_value": 36.63,
+        "direction": "increasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 12.24,
+        "abs_shap_value": 12.24,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": 10.57,
+        "abs_shap_value": 10.57,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": 9.23,
+        "abs_shap_value": 9.23,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": 8.43,
+        "abs_shap_value": 8.43,
+        "direction": "increasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -5.36,
+        "abs_shap_value": 5.36,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "kurla",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -25.52,
+        "abs_shap_value": 25.52,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 19.51,
+        "abs_shap_value": 19.51,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -12.91,
+        "abs_shap_value": 12.91,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -10.74,
+        "abs_shap_value": 10.74,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -3.46,
+        "abs_shap_value": 3.46,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -2.88,
+        "abs_shap_value": 2.88,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "mazagaon",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -27.41,
+        "abs_shap_value": 27.41,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.04,
+        "abs_shap_value": 18.04,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -13.14,
+        "abs_shap_value": 13.14,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -10.07,
+        "abs_shap_value": 10.07,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -6.81,
+        "abs_shap_value": 6.81,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -6.65,
+        "abs_shap_value": 6.65,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "peenya",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -25.43,
+        "abs_shap_value": 25.43,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 18.15,
+        "abs_shap_value": 18.15,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -11.9,
+        "abs_shap_value": 11.9,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -7.03,
+        "abs_shap_value": 7.03,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": -6.62,
+        "abs_shap_value": 6.62,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -3.75,
+        "abs_shap_value": 3.75,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "rk_puram",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": 21.29,
+        "abs_shap_value": 21.29,
+        "direction": "increasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 10.54,
+        "abs_shap_value": 10.54,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": 6.37,
+        "abs_shap_value": 6.37,
+        "direction": "increasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -5.96,
+        "abs_shap_value": 5.96,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": 4.67,
+        "abs_shap_value": 4.67,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": 3.97,
+        "abs_shap_value": 3.97,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "rohini",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": 30.85,
+        "abs_shap_value": 30.85,
+        "direction": "increasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 10.73,
+        "abs_shap_value": 10.73,
+        "direction": "increasing"
+      },
+      {
+        "feature": "temperature",
+        "factor": "Temperature effect",
+        "shap_value": 7.7,
+        "abs_shap_value": 7.7,
+        "direction": "increasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -7.38,
+        "abs_shap_value": 7.38,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": 5.73,
+        "abs_shap_value": 5.73,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_168h",
+        "factor": "Weekly pollution pattern",
+        "shap_value": 5.5,
+        "abs_shap_value": 5.5,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "silk_board",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -24.03,
+        "abs_shap_value": 24.03,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 20.54,
+        "abs_shap_value": 20.54,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -11.69,
+        "abs_shap_value": 11.69,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -8.47,
+        "abs_shap_value": 8.47,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -3.11,
+        "abs_shap_value": 3.11,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -2.71,
+        "abs_shap_value": 2.71,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "sion",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -25.75,
+        "abs_shap_value": 25.75,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 20.07,
+        "abs_shap_value": 20.07,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -12.24,
+        "abs_shap_value": 12.24,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -8.85,
+        "abs_shap_value": 8.85,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -2.19,
+        "abs_shap_value": 2.19,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "day_of_week",
+        "factor": "Day of week effect",
+        "shap_value": 1.66,
+        "abs_shap_value": 1.66,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "wazirpur",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": 48.26,
+        "abs_shap_value": 48.26,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": 23.72,
+        "abs_shap_value": 23.72,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": 11.37,
+        "abs_shap_value": 11.37,
+        "direction": "increasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 10.89,
+        "abs_shap_value": 10.89,
+        "direction": "increasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -10.62,
+        "abs_shap_value": 10.62,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": 9.11,
+        "abs_shap_value": 9.11,
+        "direction": "increasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  },
+  {
+    "ward_id": "whitefield",
+    "horizon": "24h",
+    "method": "SHAP TreeExplainer",
+    "factors": [
+      {
+        "feature": "pm25_roll_24h_mean",
+        "factor": "24-hour average pollution",
+        "shap_value": -25.48,
+        "abs_shap_value": 25.48,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "month",
+        "factor": "Seasonal factor",
+        "shap_value": 19.8,
+        "abs_shap_value": 19.8,
+        "direction": "increasing"
+      },
+      {
+        "feature": "pm25_lag_24h",
+        "factor": "Persistent pollution trend (24h)",
+        "shap_value": -11.83,
+        "abs_shap_value": 11.83,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_lag_1h",
+        "factor": "Recent pollution level (1h ago)",
+        "shap_value": -8.91,
+        "abs_shap_value": 8.91,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "pm25_roll_7d_mean",
+        "factor": "7-day pollution trend",
+        "shap_value": -3.52,
+        "abs_shap_value": 3.52,
+        "direction": "decreasing"
+      },
+      {
+        "feature": "hour_cos",
+        "factor": "Time of day (traffic pattern)",
+        "shap_value": -3.31,
+        "abs_shap_value": 3.31,
+        "direction": "decreasing"
+      }
+    ],
+    "base_value": 124.03,
+    "generated_at": "2024-11-26 23:00:00"
+  }
+]
